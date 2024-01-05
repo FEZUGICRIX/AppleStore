@@ -1,0 +1,20 @@
+:root {
+  --color-white: #fff;
+  --color-grey: #f8f9fa;
+  --border-radius: 8px;
+  --color-header: linear-gradient(to right,#cb11ab 0,#481173 100%) no-repeat;
+  --color-purple: #cb11ab;
+
+  --big-spacing: 30px;
+  --large-spacing: 15px;
+  --small-scpacing: 10px;
+
+  --box-shadow: 15px 15px 15px -10px rgba(34, 60, 80, 0.21);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: var(--color-grey);
+}

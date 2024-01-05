@@ -1,0 +1,123 @@
+[
+    {
+      "id": "el1",
+      "name": "Apple iPhone 15 Pro Max",
+      "img": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2Fsmartfon_apple_iphone_15_pro_max_256gb_black_titanium_mu773_274418_1.jpg&w=1920&q=85",
+      "old_price": 1800,
+      "price": 1530,
+      "rating": "5.0",
+      "bought": 18,
+      "discount": 15
+    },
+    {
+      "id": "el2",
+      "name": "Apple iPhone 14 Pro Max",
+      "img": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F265318_1v.jpg&w=1920&q=85",
+      "old_price": 1500,
+      "price": 1200,
+      "rating": "4.9",
+      "bought": 68,
+      "discount": 20
+    },
+    {
+      "id": "el3",
+      "name": "Apple iPhone 13 Pro Max",
+      "img": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252991_1.jpg&w=1920&q=85",
+      "old_price": 1200,
+      "price": 900,
+      "rating": "4.8",
+      "bought": 72,
+      "discount": 25
+    },
+    {
+      "id": "el4",
+      "name": "Apple iPhone 12 Pro Max",
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_77_2659_0_6.webp",
+      "old_price": 999,
+      "price": 879,
+      "rating": "4.5",
+      "bought": 58,
+      "discount": 12
+    },
+    {
+      "id": "el5",
+      "name": "Apple MacBook Pro 16",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/hf8/h2e/84577772339230.jpg?format=gallery-medium",
+      "old_price": 2800,
+      "price": 2296,
+      "rating": "4.6",
+      "bought": 12,
+      "discount": 18
+    },
+    {
+      "id": "el6",
+      "name": "Apple MacBook Pro 14",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/ha3/h9b/64200744763422.jpg?format=gallery-medium",
+      "old_price": 2100,
+      "price": 1638,
+      "rating": "4.8",
+      "bought": 11,
+      "discount": 22
+    },
+    {
+      "id": "el7",
+      "name": "Apple MacBook Air 15",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/h65/h41/81547557240862.jpg?format=gallery-medium",
+      "old_price": 1400,
+      "price": 980,
+      "rating": "4.4",
+      "bought": 87,
+      "discount": 30
+    },
+    {
+      "id": "el8",
+      "name": "Apple MacBook Air 13",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/hc8/h1a/64439230365726.jpg?format=gallery-medium",
+      "old_price": 999,
+      "price": 859,
+      "rating": "4.9",
+      "bought": 80,
+      "discount": 14
+    },
+    {
+      "id": "el22",
+      "name": "Apple AirPods Max",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/h97/h0d/64141045628958.jpg?format=gallery-medium",
+      "old_price": 600,
+      "price": 504,
+      "rating": "5.0",
+      "bought": 41,
+      "discount": 16
+    },
+    {
+      "id": "el9",
+      "name": "Apple AirPods Pro",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/h94/hcf/64136916566046.jpg?format=gallery-medium",
+      "old_price": 280,
+      "price": 201.6,
+      "rating": "4.8",
+      "bought": 121,
+      "discount": 28
+    },
+    {
+      "id": "el20",
+      "name": "Apple AirPods Pro 2nd generation",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/hb7/h5e/64511113199646.jpg?format=gallery-medium",
+      "old_price": 250,
+      "price": 200,
+      "rating": "4.1",
+      "bought": 67,
+      "discount": 20
+    },
+    {
+      "id": "el21",
+      "name": "Apple AirPods 3",
+      "img": "https://resources.cdn-kaspi.kz/img/m/p/hda/hc7/64341967994910.jpg?format=gallery-medium",
+      "old_price": 200,
+      "price": 180,
+      "rating": "3.9",
+      "bought": 58,
+      "discount": 10
+    }
+  ]
+  

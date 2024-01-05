@@ -1,0 +1,131 @@
+@keyframes animate {
+  0% {
+    right: -380px;
+  }
+
+  100% {
+    right: -1px;
+  }
+}
+
+.cart-container {
+  position: fixed;
+  right: -320px;
+  top: 0;
+  height: 100vh;
+  max-width: 283px;
+  animation: animate;
+
+  box-shadow: var(--box-shadow);
+  background: rgba(255, 255, 255, 0.98);
+  border-radius: 15px 0px 0px 15px;;
+  padding: 20px;
+  z-index: 5;
+}
+
+#cart {
+  width: 100%;
+}
+
+.cart-row {
+  height: 130px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px
+}
+
+.cart_element__discount {
+  background: #f44;
+  position: relative;
+  top: 133px;
+  left: -8px;
+  width: 25px;
+  text-align: center;
+  padding: 2px 4px;
+  border-radius: 4px;
+  color: var(--color-white);
+  font-size: 12px;
+}
+
+.cart_elemetn__img {
+  height: px;
+  width: 70px;
+  object-fit: contain;
+}
+
+.cart__elements_name-rating {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-content: space-around;
+}
+
+.input-group {
+  margin: 0;
+}
+
+.input {
+  width: 30px;
+  border: none;
+  border-bottom: 3px solid var(--color-purple);
+  outline: none;
+  text-align: center;
+}
+
+.input_btn {
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  padding: 6px;
+  transition: all 0.2s ease-out;
+}
+
+.input_btn:hover {
+  background: rgba(203, 17, 171, 0.7);
+  color: var(--color-white);
+}
+
+.input_btn:active {
+  transform: scale(0.9)
+}
+
+.close__close {
+  position: absolute;
+  right: 0px;
+  top: 5px;
+  width: 45px;
+  height: 45px;
+  cursor: pointer;
+
+  background: url('image/close2.svg');
+  background-repeat: no-repeat;
+}
+
+.cart_elements__img-price {
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.cart_elemetn__price {
+  margin-left: 5px;
+}
+
+.cart_element__delete {
+  height: 100%;
+  align-items: flex-end;
+  margin-left: auto;
+  display: flex;
+}
+
+.delete {
+  display: block;
+  margin-bottom: 20px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+
+  background: url('image/delete_element.svg');
+  background-repeat: no-repeat;
+}
